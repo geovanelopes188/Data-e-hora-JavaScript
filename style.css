@@ -1,0 +1,11 @@
+head, body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    width: 100px;
+    height: 100px;
+    width: 100%;
+    background: rgb(75, 76, 98);
+    color: aliceblue;
+}
