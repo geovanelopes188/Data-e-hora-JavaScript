@@ -1,4 +1,5 @@
-Documentação do Código JavaScript Data e hora
+Documentação do Código JavaScript Data e hora.
+
 Descrição Geral
 Este código JavaScript tem como objetivo exibir a data e hora atuais em elementos HTML com IDs específicos. Ele utiliza o objeto Date do JavaScript para obter as informações de data e hora, formata-as de forma legível e atualiza os elementos HTML em intervalos regulares.
 
